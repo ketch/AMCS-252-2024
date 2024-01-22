@@ -3,6 +3,8 @@
 # AMCS 252
 ## Spring 2024
 
+[Reading and homework](homework.md)
+
 Time: 8:30-10:00 a.m. every Monday and Thursday  
 Location: Building 9, room 3120
 
