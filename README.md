@@ -102,8 +102,8 @@ For homework problems that require programming, you must turn in the code used t
 **No credit will be given for late work**.  That includes work that is turned in even a few minutes after the deadline.  If you have special circumstances that require an extension, talk to the instructor as soon as you know about them.
 
 
-### Exams (50%)
-Two midterm exams will be given, in class; one approximately half way through the course and the other on the last day of the course.  Each midterm will cover only half of the course and will be worth 1/4 of the total grade.  There will be no final exam.
+### Course Project (50%)
+Each student will conduct a project, going more in-depth on a topic related to the course.  This can involve understanding and implementing a numerical algorithm and/or studying theoretical properties of numerical methods.  You will write a project proposal and a mid-project summary, and then give a presentation of your work to your fellow students during the last week of the course.
 
 ### Tentative grading scale
 
