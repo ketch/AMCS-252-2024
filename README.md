@@ -3,7 +3,7 @@
 # AMCS 252
 ## Spring 2024
 
-Time: 8:00-10:00 a.m. every Monday and Thursday  
+Time: 8:30-10:00 a.m. every Monday and Thursday  
 Location: Building 9, room 3120
 
 
