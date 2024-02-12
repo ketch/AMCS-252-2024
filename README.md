@@ -13,8 +13,8 @@ Instructor: David Ketcheson
 Instructor's office: Al-Khawarizmi building, Room 4240  
 Office hours: By appointment  
 
-Teaching assistant: TBD
-Office hours: TBD
+Teaching assistant: Terence Liu  
+Office hours: Sunday 3:10-4:10 pm in Building 1 room 4136 or 4212-WS01
 
 Textbook: “Finite Difference Methods for Ordinary and Partial Differential Equations”, by R. J. LeVeque.  
 Online textbook: https://epubs.siam.org/doi/book/10.1137/1.9780898717839
