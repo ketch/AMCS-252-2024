@@ -9,3 +9,7 @@
 
 # Week 4: Nonlinear and 2D BVPs
 - Read 2.16 and 3.1-3.4
+
+# Week 6
+- Multigrid: Read 4.1-2, 4.6
+- Initial Value progblems: Read Ch. 5 up to 5.5
